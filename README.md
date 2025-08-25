@@ -1,8 +1,6 @@
 <h1 align="center">RescueNET Snowmobile Safety Device</h1>
   <p align="left">
-    Developing a lifesaving PCB that detects when snowmobilers are stuck upside down, which causes suffocation, and sends an emergency alert signal to nearby riders with the GPS coordinates of the victim.
-
-    The PCB utilizes multiple sensors and an ARM MCU running a Linux-based RTOS to send an emergency signal via LoRa radio or Bluetooth Low-Energy (BLE) in mountainous terrain.
+    Developing a lifesaving PCB that detects when snowmobilers are stuck upside down, which causes suffocation, and sends an emergency alert signal to nearby riders with the GPS coordinates of the victim. The PCB utilizes multiple sensors and an ARM MCU running a Linux-based RTOS to send an emergency signal via LoRa radio or Bluetooth Low-Energy (BLE) in mountainous terrain.
   </p>
 
 
