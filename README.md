@@ -18,3 +18,15 @@
   <p align="center">
     <img src="assets/periph_schem.png" alt="Schematic" width="600">
   </p>
+
+  <p align="center">
+    <img src="assets/board_supply_schem.png" alt="Schematic" width="600">
+  </p>
+
+  <p align="center">
+    <img src="assets/rf_schem.png" alt="Schematic" width="600">
+  </p>
+
+  <p align="center">
+    <img src="assets/io_schem.png" alt="Schematic" width="600">
+  </p>
